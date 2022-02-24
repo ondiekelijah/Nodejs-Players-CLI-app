@@ -27,4 +27,4 @@ player set add
 ```bash
 player set remove
 ```
-
+![demo snippet](https://github.com/Dev-Elie/Nodejs-Players-CLI-app/blob/main/demo/github.png)
